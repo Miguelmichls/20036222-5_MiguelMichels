@@ -1,9 +1,9 @@
 <footer>
 <div>
-    <img src="imagens/logo2.png"  alt="log-fabrica-de-doces">
+    <img src="imagens/logo2.png"  alt="log-doceria-mexincana">
   </div>
   <div>
-  <p class="info">Desenvolvido por Miguel Michels. <br/> RA:-5 <br> Curso:  Sistemas para Internet</p>
+  <p class="info">Desenvolvido por Miguel Michels. <br/> RA:20036222-5 <br> Curso:  Sistemas para Internet</p>
   <div class="icons">
     
 <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
