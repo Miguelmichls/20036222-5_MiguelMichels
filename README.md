@@ -5,7 +5,7 @@
 
 
 
-Aluno: Miguel Michels  <br> 
+Aluno: Miguel Beltrame Michels  <br> 
 RA: 20036222-5
 
 <h2>Tecnologias usada para desenvolvimento do Mapa</h2>
